@@ -46,7 +46,7 @@ We will be using Pythia-1.4B model, this is because unlike FinBERT, it understan
 FinBert obtained a nuetral sentiment, and Pythia gave a Negative sentiment, which states it understands this context.
 
 
-<img title="" src="https://github.com/makiisthenes/Agents-Based-TradingCompany/assets/52138450/0b3b36f9-e828-4c81-b93e-62e9ce0a4b3c" alt="" data-align="center" width="477">
+![image](https://github.com/makiisthenes/Agents-Based-TradingCompany/assets/52138450/d8d19974-991c-4b3e-98e2-ed9b02f4f53e)
 
 
 ------
@@ -63,13 +63,16 @@ which predictions of next words, LLMs are large generative models, that are
 able to understand language and produce sentences responses with great language
 understanding.
 
-<img title="" src="https://github.com/makiisthenes/Agents-Based-TradingCompany/assets/52138450/609961f3-ada1-4a1b-bec8-5b7835a6c521" alt="" data-align="center">
+![image](https://github.com/makiisthenes/Agents-Based-TradingCompany/assets/52138450/79141476-e057-4882-b5da-b588569856ee)
+
+
 
 Current LLMs are just auto-predict on steroids, no LLMs are able to process a
 request for 40 mins, look at the request from multiple angles, and then offer a
 very rationale solution from a complex problem.
 
-<img title="" src="https://github.com/makiisthenes/Agents-Based-TradingCompany/assets/52138450/4d4808ae-3fbf-49c4-b35e-b68985092cfd" alt="" data-align="center" width="477">
+![image](https://github.com/makiisthenes/Agents-Based-TradingCompany/assets/52138450/da50613c-ac9d-4809-b187-cce22de2d707)
+
 
 
 A way to work around this is the use of:
