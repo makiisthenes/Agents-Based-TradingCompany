@@ -1,0 +1,12 @@
+#ignore this in github
+
+# environment variables
+.env_secrets
+
+#Cache folders
+__pycache__/
+
+
+.idea
+
+venv
